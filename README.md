@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arbi Fares Sghaier</h1>
+<h1 align="center">Hi 👋, I'm Fares Sghaier</h1>
 <h3 align="center" style>A passionate Full-Stack developer from Tunisia</h3>
 
 <p align="center" style="margin : 10px auto;">

@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on Some Projects .
 
-- 🌱 I’m currently learning Python .
-
 - 👯 I’m looking to collaborate on Youtube .
 
 - 📫 How to reach me **faressghaier400@gmail.com**
